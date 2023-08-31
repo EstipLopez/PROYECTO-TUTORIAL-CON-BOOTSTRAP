@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url(img/Fondooo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+</html>
+
+<head>
+  <title>Menú con Bootstrap</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">MI PROYECTO</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Inicio</a></li>
+      </ul>
+    </div>
+  </nav>
+</body>
+
+<body>
+    <div class="brand">
+        <h2>
+       
+        <h2>PROYECTO TUTORIAL<span></span></h2>
+       
+      </div>  
+    
+</body>
+     <header id ="main-header">
+            <nav>
+                <ul>
+                 </body>
+                  
+                  <div class="container">
+                     <button class="button red">SISTEMAS</button>
+                     <button class="button green">PROGRAMAS</button>
+                     <button class="button green">Y</button>
+                     <button class="button blue">DISEÑOS</button>
+                  </div>
+                  
+                 <li><a href= "futbol.html">futbol </a></li>
+                 
+                 <li><a href= "musica.html" >musica </a></li>
+
+                 <li><a href= "Caza y pezca.html" >Caza y pezca </a></li>
+
+                 <li><a href= "astronomia.html" >astronomia> </a></li>
+                 </html>
+                   <div class="sotial-network">
+                    <footer class="footer">
+                        <div class="footer-content">
+                            <h2>Josue Lopez</h2>
+                            <h5>Sistemas Programas y Diseños</h5>
+                    
+                         </div>
+                     </footer>       
+                </ul>
+            </nav>
+            
+     </header>
+</html>
